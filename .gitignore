@@ -1,0 +1,25 @@
+# .NET / C#
+[Bb]in/
+[Oo]bj/
+.vs/
+*.user
+*.suo
+*.pdb
+appsettings.Development.json
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.venv
+venv/
+env/
+.env
+
+# OS Files
+.DS_Store
+Thumbs.db
+
+# Data Files
+*.gpkg

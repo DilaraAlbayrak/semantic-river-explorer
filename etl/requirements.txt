@@ -1,0 +1,9 @@
+geopandas
+sqlalchemy
+psycopg2-binary
+geoalchemy2
+shapely
+fiona
+pyproj
+openai
+python-dotenv
